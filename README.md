@@ -2,11 +2,11 @@
 
 # Image Steganography using Python and OpenCV
 
-This Python script allows users to hide text messages inside images using steganography techniques. It includes functionalities for encrypting text, embedding it into selected images, and extracting hidden messages from encrypted images.
+Using steganography techniques, this Python script allows users to hide text messages inside images. It includes functionalities for encrypting text, embedding it into selected images, and extracting hidden messages from encrypted images.
 
 ## Features
 
-- **Encryption and Hiding**: Users can choose an image file, enter a secure passcode, and provide text to hide within the image. The script encrypts the text and embeds it into the image using the RGB color channels.
+- **Encryption and Hiding**: Users can choose an image file, enter a secure passcode, and provide text to hide within the image. The script encrypts and embeds the text into the image using the RGB color channels.
   
 - **Extraction**: Users can extract hidden text from an encrypted image by providing the correct decryption passcode.
 
