@@ -25,12 +25,8 @@ Using steganography techniques, this Python script allows users to hide text mes
    pip install opencv-python
    ```
 
-3. **Clone the Repository**: Clone this repository to your local machine:
-   ```
-   git clone <repository_url>
-   ```
 
-4. **Run the Script**:
+3. **Run the Script**:
    - Open a terminal or command prompt.
    - Navigate to the directory containing the cloned repository.
    - Run the script:
